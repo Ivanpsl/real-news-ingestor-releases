@@ -2,5 +2,10 @@
     "applicationId": "js.neutralino.realnewsingestor",
     "version": "0.0.1",
     "isMandatory": false,
-    "resourcesURL": "https://raw.githubusercontent.com/Ivanpsl/real-news-ingestor-releases/main/resources.neu"
+    "resourcesURL": "https://raw.githubusercontent.com/Ivanpsl/real-news-ingestor-releases/main/resources.neu",
+    "releaseNotes": [
+        "* Test patchnotes.",
+        "* Auto updater.",
+        "* Añadido sistema de tokens de sesión para mayor seguridad."
+      ],
 }
